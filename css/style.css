@@ -1,0 +1,14 @@
+* {
+  background-color: rgb(242, 229, 218);
+  color: rgb(50, 20, 20);
+}
+
+#nav li {
+  float: right;
+  margin-left: 15em;
+  border: 1em solid rgb(50, 20, 20);
+}
+
+#nav {
+  list-style: none;
+}
